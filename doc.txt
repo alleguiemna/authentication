@@ -1,0 +1,9 @@
+create a server 
+create databse
+connect a server with database
+//routes 
+//middlewares
+//controllers 
+//config
+//models
+app.method(path,func)
